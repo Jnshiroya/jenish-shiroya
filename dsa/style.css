@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    font-size: 150%;
+    text-align: center;
+    block-size: 1.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 8mm;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+
+body{
+    background-color: rgb(236, 211, 156);
+}
+.table{
+    background-color: gray;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    border-left: 5px solid black;
+    border-right: 5px solid black;      
+}
